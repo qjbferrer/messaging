@@ -19,7 +19,8 @@
       "androidStatusBar": {
         "barStyle": "dark-content",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.qjbferrer.messaging"
     },
     "web": {
       "bundler": "metro",
